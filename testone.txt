@@ -1,4 +1,4 @@
-new test:master
+﻿new test:master
 change agine
 
 no add
@@ -7,3 +7,4 @@ erro
 that is rigt
 change on testing
 冲突内容
+change on master
